@@ -9,7 +9,7 @@ public class uslusayi {
 
         System.out.println("üs alınacak sayı ");
         k = scan.nextInt();
-        int total
+        int total;
 
         }
 

@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="708123e3-02f3-4c7a-9f01-d5595a9a44c7" name="Changes" comment="faktoriyel">
-      <change beforePath="$PROJECT_DIR$/src/maino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maino.java" afterDir="false" />
-    </list>
+    <list default="true" id="708123e3-02f3-4c7a-9f01-d5595a9a44c7" name="Changes" comment="us" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,13 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680356616197</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="us">
+      <created>1680358203008</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680358203008</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="aaa" />
     <MESSAGE value="karesitoplam" />
     <MESSAGE value="faktoriyel" />
-    <option name="LAST_COMMIT_MESSAGE" value="faktoriyel" />
+    <MESSAGE value="us" />
+    <option name="LAST_COMMIT_MESSAGE" value="us" />
   </component>
 </project>
