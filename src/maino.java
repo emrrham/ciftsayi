@@ -9,7 +9,7 @@ public class maino {
         int total = 1;
         for(int i = 1; i<=n; i++){
             total = total * i;
-            System.out.println( n+ total);
+            System.out.println(  n+ total);
         }
 
 
